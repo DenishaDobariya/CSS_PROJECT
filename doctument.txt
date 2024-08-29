@@ -1,0 +1,19 @@
+file:///D:/denisha/CSS/Akame-project/index.html
+          
+        color:upper-header-color:#212529;
+	navbar-color:#252525;
+	primary-color:#252525;
+	secondary-color:#6e6e6e;
+	btn-active-color:#bca858;
+	btn-hover-color:#212529;
+	li-color:#212529;
+	date-color:#acacac;
+	white-color:#fff;
+	
+	heading-family:playfair-display;
+	content-family:open sans;
+	btn-family:playfair-display;
+	
+	
+		
+        
